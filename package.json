@@ -1,0 +1,33 @@
+{
+  "name": "reverland-hotel",
+  "version": "1.0.0",
+  "description": "Luxury Hotel Website for Riverland Hotel",
+  "main": "next.config.ts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "hotel",
+    "luxury",
+    "hospitality"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^26.4.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "autoprefixer": "^10.5.4",
+    "eslint-config-next": "^16.3.4",
+    "lucide-react": "^1.39.0",
+    "next": "^16.3.4",
+    "postcss": "^8.5.26",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}
