@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Twitter, Linkedin } from "lucide-react";
+import { Facebook, Instagram, Twitter, Linkedin as LinkedinIcon } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -45,7 +45,7 @@ export default function Footer() {
                 <Twitter size={20} />
               </a>
               <a href="#" className="text-gold hover:text-gold/70 transition">
-                <Linkedin size={20} />
+                <LinkedinIcon size={20} />
               </a>
             </div>
           </div>

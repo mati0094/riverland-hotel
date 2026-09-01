@@ -1,4 +1,4 @@
-import { Linkedin, Twitter, Instagram } from "lucide-react";
+import { Linkedin as LinkedinIcon, Twitter, Instagram } from "lucide-react";
 
 interface TeamMember {
   id: number;
@@ -95,7 +95,7 @@ export default function Team() {
 
                 <div className="flex gap-3">
                   <a href={member.social.linkedin} className="text-gold hover:text-gold/70 transition">
-                    <Linkedin size={18} />
+                    <LinkedinIcon size={18} />
                   </a>
                   <a href={member.social.twitter} className="text-gold hover:text-gold/70 transition">
                     <Twitter size={18} />
