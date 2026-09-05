@@ -34,8 +34,8 @@ export default function About() {
               <div>
                 <h3 className="text-xl font-semibold text-gold mb-2">Location</h3>
                 <p className="text-light/70">
-                  Riverside Boulevard, Nature Valley<br />
-                  Phone: +1 (555) 123-4567<br />
+                  Abay Mado, Bahir Dar Ethiopia<br />
+                  Phone: +251924808182<br />
                   Email: info@riverlandhotel.com
                 </p>
               </div>

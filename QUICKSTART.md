@@ -29,7 +29,6 @@ src/
     ├── Hero.tsx            # Hero section with main image
     ├── About.tsx           # About hotel + location
     ├── Rooms.tsx           # Room types showcase
-    ├── Team.tsx            # Team members profile cards
     ├── Booking.tsx         # Booking form
     ├── Contact.tsx         # Contact info + contact form
     └── Footer.tsx          # Footer with links & social
@@ -49,7 +48,6 @@ src/
    - Hero background: `Hero.tsx`
    - About section image: `About.tsx`
    - Room photos: `Rooms.tsx`
-   - Team photos: `Team.tsx`
 
 ### 3. Customize Colors
 **File:** `tailwind.config.ts`
@@ -78,13 +76,6 @@ theme: {
 - Pricing
 - Amenities
 - Images
-
-### 6. Update Team Members
-**File:** `src/components/Team.tsx`
-- Team member names and titles
-- Biographies
-- Profile photos
-- Social media links
 
 ## 🔧 Available Commands
 
@@ -125,7 +116,6 @@ export default function NewSection() {
 ✅ Hero section with background image
 ✅ About section with hotel info
 ✅ Room showcase with pricing
-✅ Team member profiles
 ✅ Booking form
 ✅ Contact form
 ✅ Contact information display

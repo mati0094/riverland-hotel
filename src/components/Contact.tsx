@@ -15,9 +15,8 @@ export default function Contact() {
               <div>
                 <h3 className="text-xl font-semibold text-gold mb-2">Address</h3>
                 <p className="text-light/70">
-                  Riverside Boulevard<br />
-                  Nature Valley, NV 12345<br />
-                  Country Name
+                  Abay Mado<br />
+                  Bahir Dar, Ethiopia
                 </p>
               </div>
             </div>
@@ -27,9 +26,7 @@ export default function Contact() {
               <div>
                 <h3 className="text-xl font-semibold text-gold mb-2">Phone</h3>
                 <p className="text-light/70">
-                  Main: +1 (555) 123-4567<br />
-                  Reservations: +1 (555) 123-4568<br />
-                  Front Desk: +1 (555) 123-4569
+                  +251924808182
                 </p>
               </div>
             </div>

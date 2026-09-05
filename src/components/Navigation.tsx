@@ -27,7 +27,6 @@ export default function Navigation() {
         } md:flex flex-col md:flex-row gap-8 absolute md:relative top-16 md:top-0 left-0 right-0 bg-dark md:bg-transparent p-4 md:p-0`}>
           <li><Link href="#about" className="hover:text-gold transition">About</Link></li>
           <li><Link href="#rooms" className="hover:text-gold transition">Rooms</Link></li>
-          <li><Link href="#team" className="hover:text-gold transition">Team</Link></li>
           <li><Link href="#booking" className="hover:text-gold transition">Booking</Link></li>
           <li><Link href="#contact" className="hover:text-gold transition">Contact</Link></li>
         </ul>

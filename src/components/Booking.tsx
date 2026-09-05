@@ -140,7 +140,7 @@ export default function Booking() {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-2 bg-dark/60 border border-gold/30 rounded text-light focus:outline-none focus:border-gold"
-                  placeholder="+1 (555) 000-0000"
+                  placeholder="+251924808182"
                 />
               </div>
             </div>

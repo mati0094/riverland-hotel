@@ -7,7 +7,6 @@ A modern, responsive website for Riverland Hotel built with Next.js, React, Type
 - **Hero Section** - Stunning landing section with call-to-action
 - **About Section** - Hotel information and location details
 - **Room Showcase** - Display of different room types with pricing
-- **Team Section** - Meet the professional team members
 - **Booking System** - Easy-to-use booking form
 - **Contact Section** - Multiple contact options and contact form
 - **Responsive Design** - Mobile-friendly and works on all devices
@@ -27,7 +26,6 @@ riverland-hotel/
 │       ├── Hero.tsx            # Hero section
 │       ├── About.tsx           # About section
 │       ├── Rooms.tsx           # Room showcase
-│       ├── Team.tsx            # Team section
 │       ├── Booking.tsx         # Booking form
 │       ├── Contact.tsx         # Contact section
 │       └── Footer.tsx          # Footer
@@ -94,7 +92,6 @@ Edit [tailwind.config.ts](tailwind.config.ts) to customize:
 Replace placeholder images in components with your actual hotel images:
 - Hero background image
 - Room photos
-- Team member photos
 
 ## Features to Add
 
@@ -110,8 +107,8 @@ Replace placeholder images in components with your actual hotel images:
 ## Contact Information
 
 **Riverland Hotel**
-- Address: Riverside Boulevard, Nature Valley, NV 12345
-- Phone: +1 (555) 123-4567
+- Address: Abay Mado, Bahir Dar Ethiopia
+- Phone: +251924808182
 - Email: info@riverlandhotel.com
 - Website: [www.riverlandhotel.com](https://www.riverlandhotel.com)
 
